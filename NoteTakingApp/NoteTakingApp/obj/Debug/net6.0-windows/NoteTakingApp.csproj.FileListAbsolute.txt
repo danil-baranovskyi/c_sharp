@@ -1,0 +1,16 @@
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.exe
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.deps.json
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.runtimeconfig.json
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.dll
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.pdb
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.NoteTaker.resources
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.csproj.GenerateResource.cache
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.AssemblyInfoInputs.cache
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.AssemblyInfo.cs
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.csproj.CoreCompileInputs.cache
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.dll
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\refint\NoteTakingApp.dll
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.pdb
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.genruntimeconfig.cache
+D:\work\c_sharp\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0-windows\ref\NoteTakingApp.dll
